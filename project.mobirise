@@ -468,9 +468,14 @@
           },
           "media": {
             "image": {
+              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/inf-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -484,8 +489,7 @@
               "name": "error",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "headerAlign": "left",
