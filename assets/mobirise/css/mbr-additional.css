@@ -1,0 +1,100 @@
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#slider-1 P {
+  color: #000000;
+}
+#slider-1 H1 {
+  color: #ffffff;
+}
+#accordion-block-4 .panel-body {
+  padding: 15px;
+}
+#accordion-block-4 .panel-group {
+  margin-bottom: 20px;
+}
+#accordion-block-4 .panel {
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+}
+#accordion-block-4 .panel-default {
+  border-color: #ddd;
+}
+#accordion-block-4 .panel-group .panel {
+  margin-bottom: 0px;
+  border-radius: 4px;
+}
+#accordion-block-4 .panel-group .panel + .panel {
+  margin-top: 5px;
+}
+#accordion-block-4 .panel-heading {
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+#accordion-block-4 .panel-group .panel-heading {
+  border-bottom: 0;
+}
+#accordion-block-4 .panel-default > .panel-heading {
+  color: #333;
+  background-color: #f5f5f5;
+  border-color: #ddd;
+}
+#accordion-block-4 .collapse {
+  display: n1;
+}
+#accordion-block-4 .panel-group .panel-heading + .panel-collapse > .panel-body,
+#accordion-block-4 .panel-group .panel-heading + .panel-collapse > .list-group {
+  border-top: 1px solid #ddd;
+}
+#accordion-block-4 .panel-default > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #ddd;
+}
+#accordion-block-4 .panel-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 16px;
+  color: inherit;
+}
+#accordion-block-4 [role="button"] {
+  cursor: pointer;
+}
+#accordion-block-4 .panel-title > a,
+#accordion-block-4 .panel-title > small,
+#accordion-block-4 .panel-title > .small,
+#accordion-block-4 .panel-title > small > a,
+#accordion-block-4 .panel-title > .small > a {
+  color: inherit;
+}
+#msg-box4-6 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-6 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-6 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-article {
+  color: #ffffff;
+}
+#features1-8 P {
+  text-align: center;
+}
