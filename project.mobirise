@@ -468,7 +468,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "images/iphone.png"
@@ -481,8 +480,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "error",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "headerAlign": "left",
